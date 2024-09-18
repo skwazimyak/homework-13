@@ -1,0 +1,20 @@
+.userContainer{
+    margin: 15px 3px;
+    display: flex;
+    
+}
+.userName{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+.icon{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+.chatUser{
+    margin-top: 5px;
+}
